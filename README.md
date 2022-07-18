@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Desafio Carefy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Como desenvolvi a aplicação
 
-## Available Scripts
+### Leitura e anotações sobre o PDF do desafio
 
-In the project directory, you can run:
+App meteorológico para obter:
 
-### `npm start`
+1. temperatura
+2. condições meteoriológicas
+3. se é dia ou noite na determinada cidade
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Requisitos:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. campo de entrada que vai receber o nome de uma cidade
+2. Ao pressionar enter, atualizo o DOM mostrando os itens listados anteriormente MAIS um ícone da condição meteorológica
 
-### `npm test`
+Bônus:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Ao fechar a janela, o nome da cidade será armazenado no Local Storage
 
-### `npm run build`
+Entrega (até quinta, dia 21, às 23h59):
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Enviada por [e-mail](querosercarefy@carefy.com.br) ou pelo Whats do José. Deve conter:
+> - Link da publicação no repositório github.
+> - Link de acesso da aplicação com aplicação funcional.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Criação da conta no [AccuWeather APIs](https://developer.accuweather.com)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Vi alguns vídeos sobre como a API funciona, listei os requisitos e criei minha conta na plataforma.
 
-### `npm run eject`
+Submeti a criação do meu primeiro App e consegui a chave de acesso: pGVQUpdwtcAXaJx5KRvjbGwHG7uZWIGv
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Front utilizado
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Escolhi usar o React por acreditar que me sinto mais livre em escrever a página por ali.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Meu processo de desenvolvimento
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Criei um form com um input e um botão de submissão (funcionando com enter).
+2. Assim que submeto uma string, faço uma verificação para saber se está vazia e armazeno a informação em um estado (input).
+3. Quando altero o input, aciono a apiCurrentConditions e pego o código da cidade via API. Armazeno essa informação em um estado (codigoCidade).
+4. Assim que altero o estado do código da cidade, disparo a função da API que busca a condição atual da cidade, trato os dados e passo algumas informações para um novo estado (condicoes)
+5. Se tudo ocorrer bem, exibo todo os dados no front
 
-## Learn More
+### O que quero fazer agora
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [X] Saber se no local é dia ou noite
+- [X] Obter um ícone referente ao estado climatico
+- [ ] Tratar entradas inválidas de nomes de cidade
+- [ ] Melhorar o visual da aplicação
