@@ -1,5 +1,18 @@
 # Desafio Carefy
 
+## Como usar a aplicação?
+
+1. Você pode acessar o seguinte [link](https://desafio-carefy-garibaldi.surge.sh/)
+2. Fazer um fork neste repositório e rodar um `npm install` para baixar todos os pacotes usados
+
+Você precisará, logo no início, fornecer uma `API Key` que o site da [AccuWeather](https://developer.accuweather.com/user/me/apps) fornece mediante login (com um limite de 50 requisições por chave). Agora basta dar um `enter` e usar a aplicação para procurar o nome de uma cidade.
+
+Caso queira fechar a aba, a aplicação armazena a chave que vc inseriu bem como a última cidade pesquisada.
+
+Caso as buscas parem de funcionar, aperte F12 e busque a aba `Armazenamento` para excluir a memória local. Agora basta recarregar a página e fornecer uma nova `API Key`
+
+No final deste documento faço algumas observações do que precisa ser aprimorado. Se quiser me apontar possíveis melhorias, me procure através deste repositório, abrindo uma issue, ou me chame no [Whats](https://wa.me/5516993797689). Toda contribuição será muito bem vinda!
+
 ## Como desenvolvi a aplicação
 
 ### Leitura e anotações sobre o PDF do desafio
@@ -63,7 +76,7 @@ Escolhi usar o React por acreditar que me sinto mais livre em escrever a página
 > > > 4. Quando uma cidade é selecionada, eu pego o nome dela, o estado e o seu código. Ao setar o código, aciono a função apiCurrentConditions(). Ela vai dar um GET na api para saber as condições meteorológicas da cidade, armazenando como informações: temperatura, unidade de temperatura, se é dia ou noite, um texto com a condição do tempo e o número do ícone do tempo. Seto todas essas infomações e aciono a função pegaIcone()
 > > > 5. a função pegaIcone() pega o valor do ícona do passo anterior e busca no site da accuweather o ícone referente. Fazendo uma verificação, pois se o numero do ícone for menor que 10, preciso add um 0 antes para achar a URL. No final seto o icone e faço a última renderização da página. 
 
-- [ ] Armazenar busca atual no localStorage
+- [X] Armazenar busca atual no localStorage
 > O que preciso que seja feito: quando pesquiso uma cidade e obtenho seus dados, posso fechar a aba e quando reabri-la vou ver os dados anteriores, da cidade pesquisada
 > Ideias do que fazer:
 > > 1. Assim que encontro o nome da cidade, salvo o nome no localStorage. Ao iniciar a aplicação, verifico o localStorage, se tenho um valor armazenado, passo esse valor para para a função apiCurrentConditions(). Quando limpar o localStorage (preciso limpar?)
@@ -367,7 +380,7 @@ Erros encontrados:
 
 Erros encontrados:
 1. [X] após uma busca bem sucedida, não consigo fazer uma nova busca que dê erro.
-2. [ ] Estou achando bairros como se fossem cidades.
+2. [X] Estou achando bairros como se fossem cidades.
 3. [X] Quando dou a lista de opções de bairro eu ultrapasso o limite da área branca do campo de output
 
 Vou focar em corrigir o primeiro erro.
