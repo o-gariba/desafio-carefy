@@ -1,0 +1,79 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 100vh;
+
+  background-color: rgb(37, 37, 37);
+}
+
+.input-area {
+  display: flex;
+
+  padding-top: 20px;
+  margin-top: 80px;
+
+  width: 80vw;
+  max-width: 500px;
+  background-color: whitesmoke;
+  border-radius: 10px 10px 0 0 ;
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-evenly;
+  margin-bottom: 1em;
+}
+
+.output {
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
+  max-width: 500px;
+
+  /* border: solid 2px red; */
+  border-radius: 0 0 10px 10px;
+
+  background-color: whitesmoke;
+}
+
+.output-msgs {
+  padding: 1em;
+  font-size: .8em;
+}
+
+.output-resultados {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.output-temperatura {
+  font-size: 2em;
+  font-weight: 700;
+  margin: 0;
+}
+
+.output-cidade{
+  font-size: 1.8em;
+  margin: 0;
+}
+
+.output-icone {
+  margin-top: 1em;
+  width: 70%;
+}
+
+.output-condicaoTempo {
+  margin: 0;
+}
+
+.output-ehDia {
+  font-size: .9em;
+  color: rgb(75, 75, 75, .6);
+}

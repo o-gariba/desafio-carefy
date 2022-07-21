@@ -1,0 +1,25 @@
+[
+  {
+    "LocalObservationDateTime": "2022-07-19T09:55:00-03:00",
+    "EpochTime": 1658235300,
+    "WeatherText": "Ensolarado",
+    "WeatherIcon": 1,
+    "HasPrecipitation": false,
+    "PrecipitationType": null,
+    "IsDayTime": true,
+    "Temperature": {
+      "Metric": {
+        "Value": 18.7,
+        "Unit": "C",
+        "UnitType": 17
+      },
+      "Imperial": {
+        "Value": 66,
+        "Unit": "F",
+        "UnitType": 18
+      }
+    },
+    "MobileLink": "http://www.accuweather.com/pt/br/batatais/41597/current-weather/41597?lang=pt-br",
+    "Link": "http://www.accuweather.com/pt/br/batatais/41597/current-weather/41597?lang=pt-br"
+  }
+]

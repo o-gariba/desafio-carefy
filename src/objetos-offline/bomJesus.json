@@ -1,0 +1,3714 @@
+[
+  {
+    "Version": 1,
+    "Key": "2735542",
+    "Type": "City",
+    "Rank": 55,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "RS",
+      "LocalizedName": "Rio Grande do Sul",
+      "EnglishName": "Rio Grande Do Sul",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -30.046,
+      "Longitude": -51.161,
+      "Elevation": {
+        "Metric": {
+          "Value": 60,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 196,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "45561",
+      "LocalizedName": "Porto Alegre",
+      "EnglishName": "Porto Alegre"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Porto Alegre",
+        "EnglishName": "Porto Alegre"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Porto Alegre",
+        "EnglishName": "Porto Alegre"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "40477",
+    "Type": "City",
+    "Rank": 65,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PI",
+      "LocalizedName": "Piauí",
+      "EnglishName": "Piauí",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -9.071,
+      "Longitude": -44.361,
+      "Elevation": {
+        "Metric": {
+          "Value": 267,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 875,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2301335",
+    "Type": "City",
+    "Rank": 75,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "RN",
+      "LocalizedName": "Rio Grande do Norte",
+      "EnglishName": "Rio Grande Do Norte",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -5.986,
+      "Longitude": -35.589,
+      "Elevation": {
+        "Metric": {
+          "Value": 88,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 288,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "40950",
+    "Type": "City",
+    "Rank": 75,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "RS",
+      "LocalizedName": "Rio Grande do Sul",
+      "EnglishName": "Rio Grande Do Sul",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -28.671,
+      "Longitude": -50.433,
+      "Elevation": {
+        "Metric": {
+          "Value": 993,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 3257,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2735712",
+    "Type": "City",
+    "Rank": 75,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "RS",
+      "LocalizedName": "Rio Grande do Sul",
+      "EnglishName": "Rio Grande Do Sul",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -29.733,
+      "Longitude": -52.445,
+      "Elevation": {
+        "Metric": {
+          "Value": 30,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 98,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "35723",
+      "LocalizedName": "Santa Cruz do Sul",
+      "EnglishName": "Santa Cruz do Sul"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Santa Cruz do Sul",
+        "EnglishName": "Santa Cruz do Sul"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Santa Cruz do Sul",
+        "EnglishName": "Santa Cruz do Sul"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2733292",
+    "Type": "City",
+    "Rank": 75,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "SC",
+      "LocalizedName": "Santa Catarina",
+      "EnglishName": "Santa Catarina",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -27.3,
+      "Longitude": -50.558,
+      "Elevation": {
+        "Metric": {
+          "Value": 991,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 3250,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "41283",
+      "LocalizedName": "Curitibanos",
+      "EnglishName": "Curitibanos"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Curitibanos",
+        "EnglishName": "Curitibanos"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Curitibanos",
+        "EnglishName": "Curitibanos"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2301825",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PB",
+      "LocalizedName": "Paraíba",
+      "EnglishName": "Paraíba",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -7.042,
+      "Longitude": -36.84,
+      "Elevation": {
+        "Metric": {
+          "Value": 642,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2105,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Junco do Seridó",
+        "EnglishName": "Junco do Seridó"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Junco do Seridó",
+        "EnglishName": "Junco do Seridó"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2301829",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PB",
+      "LocalizedName": "Paraíba",
+      "EnglishName": "Paraíba",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -6.693,
+      "Longitude": -35.346,
+      "Elevation": {
+        "Metric": {
+          "Value": 118,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 387,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Lagoa de Dentro",
+        "EnglishName": "Lagoa de Dentro"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Lagoa de Dentro",
+        "EnglishName": "Lagoa de Dentro"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "34655",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PB",
+      "LocalizedName": "Paraíba",
+      "EnglishName": "Paraíba",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -7.015,
+      "Longitude": -38.395,
+      "Elevation": {
+        "Metric": {
+          "Value": 545,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 1787,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "São José de Piranhas",
+        "EnglishName": "São José de Piranhas"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2726019",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PE",
+      "LocalizedName": "Pernambuco",
+      "EnglishName": "Pernambuco",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Recife",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -7.989,
+      "Longitude": -36.493,
+      "Elevation": {
+        "Metric": {
+          "Value": 719,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2358,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "35031",
+      "LocalizedName": "Jataúba",
+      "EnglishName": "Jataúba"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Jataúba",
+        "EnglishName": "Jataúba"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Jataúba",
+        "EnglishName": "Jataúba"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2724237",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PI",
+      "LocalizedName": "Piauí",
+      "EnglishName": "Piauí",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -5.039,
+      "Longitude": -42.816,
+      "Elevation": {
+        "Metric": {
+          "Value": 45,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 147,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "45253",
+      "LocalizedName": "Teresina",
+      "EnglishName": "Teresina"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Teresina",
+        "EnglishName": "Teresina"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Teresina",
+        "EnglishName": "Teresina"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2308249",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PR",
+      "LocalizedName": "Paraná",
+      "EnglishName": "Paraná",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -25.439,
+      "Longitude": -53.634,
+      "Elevation": {
+        "Metric": {
+          "Value": 313,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 1026,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Capitão Leônidas Marques",
+        "EnglishName": "Capitão Leônidas Marques"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Capitão Leônidas Marques",
+        "EnglishName": "Capitão Leônidas Marques"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2732314",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PR",
+      "LocalizedName": "Paraná",
+      "EnglishName": "Paraná",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -26.413,
+      "Longitude": -52.338,
+      "Elevation": {
+        "Metric": {
+          "Value": 925,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 3034,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "40141",
+      "LocalizedName": "Clevelândia",
+      "EnglishName": "Clevelândia"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Clevelândia",
+        "EnglishName": "Clevelândia"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Clevelândia",
+        "EnglishName": "Clevelândia"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2732922",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PR",
+      "LocalizedName": "Paraná",
+      "EnglishName": "Paraná",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -26.214,
+      "Longitude": -51.062,
+      "Elevation": {
+        "Metric": {
+          "Value": 750,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2460,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "2308679",
+      "LocalizedName": "São Cristóvão",
+      "EnglishName": "São Cristóvão"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "União da Vitória",
+        "EnglishName": "União da Vitória"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "São Cristóvão",
+        "EnglishName": "São Cristóvão"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2301320",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "RN",
+      "LocalizedName": "Rio Grande do Norte",
+      "EnglishName": "Rio Grande Do Norte",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -5.796,
+      "Longitude": -37.415,
+      "Elevation": {
+        "Metric": {
+          "Value": 148,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 485,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Augusto Severo",
+        "EnglishName": "Augusto Severo"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Augusto Severo",
+        "EnglishName": "Augusto Severo"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "1667558",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "RO",
+      "LocalizedName": "Rondônia",
+      "EnglishName": "Rondônia",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "AMT",
+      "Name": "America/Porto_Velho",
+      "GmtOffset": -4,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -10.315,
+      "Longitude": -62.241,
+      "Elevation": {
+        "Metric": {
+          "Value": 210,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 688,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Jaru",
+        "EnglishName": "Jaru"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2725531",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "RN",
+      "LocalizedName": "Rio Grande do Norte",
+      "EnglishName": "Rio Grande Do Norte",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -5.237,
+      "Longitude": -37.365,
+      "Elevation": {
+        "Metric": {
+          "Value": 46,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 150,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "35659",
+      "LocalizedName": "Mossoró",
+      "EnglishName": "Mossoró"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Mossoró",
+        "EnglishName": "Mossoró"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Mossoró",
+        "EnglishName": "Mossoró"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2301747",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PB",
+      "LocalizedName": "Paraíba",
+      "EnglishName": "Paraíba",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -6.818,
+      "Longitude": -38.655,
+      "Elevation": {
+        "Metric": {
+          "Value": 445,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 1459,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2736308",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "RS",
+      "LocalizedName": "Rio Grande do Sul",
+      "EnglishName": "Rio Grande Do Sul",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -29.724,
+      "Longitude": -52.492,
+      "Elevation": {
+        "Metric": {
+          "Value": 64,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 209,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "2309960",
+      "LocalizedName": "Vera Cruz",
+      "EnglishName": "Vera Cruz"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Vera Cruz",
+        "EnglishName": "Vera Cruz"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Vera Cruz",
+        "EnglishName": "Vera Cruz"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "41295",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "SC",
+      "LocalizedName": "Santa Catarina",
+      "EnglishName": "Santa Catarina",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -26.736,
+      "Longitude": -52.393,
+      "Elevation": {
+        "Metric": {
+          "Value": 698,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2289,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2733079",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "SC",
+      "LocalizedName": "Santa Catarina",
+      "EnglishName": "Santa Catarina",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -26.779,
+      "Longitude": -51.028,
+      "Elevation": {
+        "Metric": {
+          "Value": 961,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 3152,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "41297",
+      "LocalizedName": "Caçador",
+      "EnglishName": "Caçador"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Caçador",
+        "EnglishName": "Caçador"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Caçador",
+        "EnglishName": "Caçador"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2733565",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "SC",
+      "LocalizedName": "Santa Catarina",
+      "EnglishName": "Santa Catarina",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -26.324,
+      "Longitude": -49.909,
+      "Elevation": {
+        "Metric": {
+          "Value": 938,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 3079,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "41311",
+      "LocalizedName": "Itaiópolis",
+      "EnglishName": "Itaiópolis"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Itaiópolis",
+        "EnglishName": "Itaiópolis"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Itaiópolis",
+        "EnglishName": "Itaiópolis"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2733729",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "SC",
+      "LocalizedName": "Santa Catarina",
+      "EnglishName": "Santa Catarina",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -27.838,
+      "Longitude": -50.325,
+      "Elevation": {
+        "Metric": {
+          "Value": 929,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 3047,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "35959",
+      "LocalizedName": "Lages",
+      "EnglishName": "Lages"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Lages",
+        "EnglishName": "Lages"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Lages",
+        "EnglishName": "Lages"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2303307",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "SE",
+      "LocalizedName": "Sergipe",
+      "EnglishName": "Sergipe",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Maceio",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -10.764,
+      "Longitude": -37.159,
+      "Elevation": {
+        "Metric": {
+          "Value": 53,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 173,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Laranjeiras",
+        "EnglishName": "Laranjeiras"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Laranjeiras",
+        "EnglishName": "Laranjeiras"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2308090",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "SP",
+      "LocalizedName": "São Paulo",
+      "EnglishName": "São Paulo",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -22.728,
+      "Longitude": -44.852,
+      "Elevation": {
+        "Metric": {
+          "Value": 712,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2335,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Silveiras",
+        "EnglishName": "Silveiras"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Silveiras",
+        "EnglishName": "Silveiras"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2301555",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "RN",
+      "LocalizedName": "Rio Grande do Norte",
+      "EnglishName": "Rio Grande Do Norte",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -5.893,
+      "Longitude": -36.609,
+      "Elevation": {
+        "Metric": {
+          "Value": 148,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 485,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Santana do Matos",
+        "EnglishName": "Santana do Matos"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Santana do Matos",
+        "EnglishName": "Santana do Matos"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2301685",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PB",
+      "LocalizedName": "Paraíba",
+      "EnglishName": "Paraíba",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -7.432,
+      "Longitude": -37.699,
+      "Elevation": {
+        "Metric": {
+          "Value": 555,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 1820,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Água Branca",
+        "EnglishName": "Água Branca"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Água Branca",
+        "EnglishName": "Água Branca"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2737349",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "MT",
+      "LocalizedName": "Mato Grosso",
+      "EnglishName": "Mato Grosso",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "AMT",
+      "Name": "America/Cuiaba",
+      "GmtOffset": -4,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -12.54,
+      "Longitude": -55.719,
+      "Elevation": {
+        "Metric": {
+          "Value": 288,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 944,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "2310516",
+      "LocalizedName": "Sorriso",
+      "EnglishName": "Sorriso"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Sorriso",
+        "EnglishName": "Sorriso"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Sorriso",
+        "EnglishName": "Sorriso"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2736718",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "MT",
+      "LocalizedName": "Mato Grosso",
+      "EnglishName": "Mato Grosso",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "AMT",
+      "Name": "America/Cuiaba",
+      "GmtOffset": -4,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -9.966,
+      "Longitude": -55.814,
+      "Elevation": {
+        "Metric": {
+          "Value": 217,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 711,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "2310243",
+      "LocalizedName": "Carlinda",
+      "EnglishName": "Carlinda"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Carlinda",
+        "EnglishName": "Carlinda"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Carlinda",
+        "EnglishName": "Carlinda"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2297171",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "AM",
+      "LocalizedName": "Amazonas",
+      "EnglishName": "Amazonas",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "AMT",
+      "Name": "America/Manaus",
+      "GmtOffset": -4,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -3.606,
+      "Longitude": -57.983,
+      "Elevation": {
+        "Metric": {
+          "Value": 38,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 124,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Maués",
+        "EnglishName": "Maués"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Osório da Fonseca",
+        "EnglishName": "Osório da Fonseca"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2303673",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "BA",
+      "LocalizedName": "Bahia",
+      "EnglishName": "Bahia",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Bahia",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -12.905,
+      "Longitude": -41.006,
+      "Elevation": {
+        "Metric": {
+          "Value": 306,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 1003,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Boa Vista do Tupim",
+        "EnglishName": "Boa Vista do Tupim"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Brejo Novo",
+        "EnglishName": "Brejo Novo"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2303497",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "BA",
+      "LocalizedName": "Bahia",
+      "EnglishName": "Bahia",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Bahia",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -10.565,
+      "Longitude": -38.087,
+      "Elevation": {
+        "Metric": {
+          "Value": 247,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 810,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Adustina",
+        "EnglishName": "Adustina"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Adustina",
+        "EnglishName": "Adustina"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2724537",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "CE",
+      "LocalizedName": "Ceará",
+      "EnglishName": "Ceará",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -3.703,
+      "Longitude": -38.681,
+      "Elevation": {
+        "Metric": {
+          "Value": 21,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 68,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "2300790",
+      "LocalizedName": "Caucaia",
+      "EnglishName": "Caucaia"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Caucaia",
+        "EnglishName": "Caucaia"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Caucaia",
+        "EnglishName": "Caucaia"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2725035",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "CE",
+      "LocalizedName": "Ceará",
+      "EnglishName": "Ceará",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -5.16,
+      "Longitude": -38.118,
+      "Elevation": {
+        "Metric": {
+          "Value": 51,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 167,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "38038",
+      "LocalizedName": "Limoeiro do Norte",
+      "EnglishName": "Limoeiro do Norte"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Limoeiro do Norte",
+        "EnglishName": "Limoeiro do Norte"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Limoeiro do Norte",
+        "EnglishName": "Limoeiro do Norte"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2300623",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "CE",
+      "LocalizedName": "Ceará",
+      "EnglishName": "Ceará",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -3.127,
+      "Longitude": -40.027,
+      "Elevation": {
+        "Metric": {
+          "Value": 44,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 144,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Acaraú",
+        "EnglishName": "Acaraú"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Acaraú",
+        "EnglishName": "Acaraú"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2300647",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "CE",
+      "LocalizedName": "Ceará",
+      "EnglishName": "Ceará",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -5.408,
+      "Longitude": -38.371,
+      "Elevation": {
+        "Metric": {
+          "Value": 75,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 246,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Alto Santo",
+        "EnglishName": "Alto Santo"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Bom Jesus",
+        "EnglishName": "Bom Jesus"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2301248",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "CE",
+      "LocalizedName": "Ceará",
+      "EnglishName": "Ceará",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -5.548,
+      "Longitude": -40.071,
+      "Elevation": {
+        "Metric": {
+          "Value": 577,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 1892,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Tauá",
+        "EnglishName": "Tauá"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Barra Nova",
+        "EnglishName": "Barra Nova"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2310683",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "GO",
+      "LocalizedName": "Goiás",
+      "EnglishName": "Goiás",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -15.087,
+      "Longitude": -49.656,
+      "Elevation": {
+        "Metric": {
+          "Value": 562,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 1843,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Ipiranga de Goiás",
+        "EnglishName": "Ipiranga de Goiás"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Ipiranga de Goiás",
+        "EnglishName": "Ipiranga de Goiás"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2298615",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "MA",
+      "LocalizedName": "Maranhão",
+      "EnglishName": "Maranhão",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -4.016,
+      "Longitude": -45.439,
+      "Elevation": {
+        "Metric": {
+          "Value": 61,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 200,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Altamira do Maranhão",
+        "EnglishName": "Altamira do Maranhão"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Altamira do Maranhão",
+        "EnglishName": "Altamira do Maranhão"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2298772",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "MA",
+      "LocalizedName": "Maranhão",
+      "EnglishName": "Maranhão",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -4.251,
+      "Longitude": -44.761,
+      "Elevation": {
+        "Metric": {
+          "Value": 26,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 85,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Bacabal",
+        "EnglishName": "Bacabal"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Bacabal",
+        "EnglishName": "Bacabal"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2299462",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "MA",
+      "LocalizedName": "Maranhão",
+      "EnglishName": "Maranhão",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Fortaleza",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -4.568,
+      "Longitude": -44.499,
+      "Elevation": {
+        "Metric": {
+          "Value": 104,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 341,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Lima Campos",
+        "EnglishName": "Lima Campos"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Lima Campos",
+        "EnglishName": "Lima Campos"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2306074",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "MG",
+      "LocalizedName": "Minas Gerais",
+      "EnglishName": "Minas Gerais",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -20.29,
+      "Longitude": -42.167,
+      "Elevation": {
+        "Metric": {
+          "Value": 910,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2984,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Manhuaçu",
+        "EnglishName": "Manhuaçu"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Realeza",
+        "EnglishName": "Realeza"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2726634",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "MG",
+      "LocalizedName": "Minas Gerais",
+      "EnglishName": "Minas Gerais",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -19.579,
+      "Longitude": -46.94,
+      "Elevation": {
+        "Metric": {
+          "Value": 1020,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 3348,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "33786",
+      "LocalizedName": "Araxá",
+      "EnglishName": "Araxá"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Araxá",
+        "EnglishName": "Araxá"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Araxá",
+        "EnglishName": "Araxá"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2726849",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "MG",
+      "LocalizedName": "Minas Gerais",
+      "EnglishName": "Minas Gerais",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -19.897,
+      "Longitude": -43.954,
+      "Elevation": {
+        "Metric": {
+          "Value": 875,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2870,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "44403",
+      "LocalizedName": "Belo Horizonte",
+      "EnglishName": "Belo Horizonte"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Belo Horizonte",
+        "EnglishName": "Belo Horizonte"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Belo Horizonte",
+        "EnglishName": "Belo Horizonte"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2727375",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "MG",
+      "LocalizedName": "Minas Gerais",
+      "EnglishName": "Minas Gerais",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -19.517,
+      "Longitude": -42.624,
+      "Elevation": {
+        "Metric": {
+          "Value": 265,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 869,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "44329",
+      "LocalizedName": "Coronel Fabriciano",
+      "EnglishName": "Coronel Fabriciano"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Coronel Fabriciano",
+        "EnglishName": "Coronel Fabriciano"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Coronel Fabriciano",
+        "EnglishName": "Coronel Fabriciano"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2727962",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "MG",
+      "LocalizedName": "Minas Gerais",
+      "EnglishName": "Minas Gerais",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -17.361,
+      "Longitude": -44.944,
+      "Elevation": {
+        "Metric": {
+          "Value": 524,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 1718,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "33796",
+      "LocalizedName": "Pirapora",
+      "EnglishName": "Pirapora"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Pirapora",
+        "EnglishName": "Pirapora"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Pirapora",
+        "EnglishName": "Pirapora"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2728189",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "MG",
+      "LocalizedName": "Minas Gerais",
+      "EnglishName": "Minas Gerais",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -18.903,
+      "Longitude": -48.275,
+      "Elevation": {
+        "Metric": {
+          "Value": 678,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2223,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "33809",
+      "LocalizedName": "Uberlândia",
+      "EnglishName": "Uberlândia"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Uberlândia",
+        "EnglishName": "Uberlândia"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Uberlândia",
+        "EnglishName": "Uberlândia"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2731789",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "SP",
+      "LocalizedName": "São Paulo",
+      "EnglishName": "São Paulo",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -20.82,
+      "Longitude": -49.379,
+      "Elevation": {
+        "Metric": {
+          "Value": 457,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 1498,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "36380",
+      "LocalizedName": "São José do Rio Preto",
+      "EnglishName": "São José do Rio Preto"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "São José do Rio Preto",
+        "EnglishName": "São José do Rio Preto"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "São José do Rio Preto",
+        "EnglishName": "São José do Rio Preto"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "2297790",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América do Sul",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PA",
+      "LocalizedName": "Pará",
+      "EnglishName": "Pará",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Belem",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -7.661,
+      "Longitude": -49.52,
+      "Elevation": {
+        "Metric": {
+          "Value": 188,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 616,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Floresta do Araguaia",
+        "EnglishName": "Floresta do Araguaia"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Floresta do Araguaia",
+        "EnglishName": "Floresta do Araguaia"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "275237",
+    "Type": "City",
+    "Rank": 95,
+    "LocalizedName": "Bom Jesus",
+    "EnglishName": "Bom Jesus",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "EUR",
+      "LocalizedName": "Europa",
+      "EnglishName": "Europe"
+    },
+    "Country": {
+      "ID": "PT",
+      "LocalizedName": "Portugal",
+      "EnglishName": "Portugal"
+    },
+    "AdministrativeArea": {
+      "ID": "13",
+      "LocalizedName": "Porto",
+      "EnglishName": "Porto",
+      "Level": 1,
+      "LocalizedType": "Distrito",
+      "EnglishType": "District",
+      "CountryID": "PT"
+    },
+    "TimeZone": {
+      "Code": "WEST",
+      "Name": "Europe/Lisbon",
+      "GmtOffset": 1,
+      "IsDaylightSaving": true,
+      "NextOffsetChange": "2022-10-30T01:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 41.187,
+      "Longitude": -8.686,
+      "Elevation": {
+        "Metric": {
+          "Value": 8,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 26,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "ParentCity": {
+      "Key": "275317",
+      "LocalizedName": "Porto",
+      "EnglishName": "Porto"
+    },
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Matosinhos",
+        "EnglishName": "Matosinhos"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  }
+]
